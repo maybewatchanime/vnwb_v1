@@ -1,0 +1,23 @@
+# Telegram Bot Framework
+aiogram==3.5.0
+aiohttp==3.9.3
+aiofiles==23.2.1
+
+# QR Code Generation
+qrcode==7.4.2
+Pillow==10.2.0
+
+# Database
+# Используем встроенный JSON для простоты
+
+# Async
+asyncio==3.4.3
+
+# System monitoring (optional)
+psutil==5.9.8
+
+# Date/Time
+python-dateutil==2.8.2
+
+# Logging
+colorlog==6.8.0
