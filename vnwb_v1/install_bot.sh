@@ -1,4 +1,4 @@
-#!/bin/bash
+#!bin/bash
 
 # ===========================================
 # VPN Bot Installation Script
